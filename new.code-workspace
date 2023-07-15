@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../amazonproject"
+		},
+		{
+			"path": "../../../Downloads/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "amazonproject"
+	}
+}
